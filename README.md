@@ -1,8 +1,6 @@
-# <img src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" width="30"> Ernest Ilchenko
+# Ernest Ilchenko
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2EF723&width=435&lines=Backend+Developer;Python+%26+Django+Specialist;AI+Enthusiast;GIS+Developer)](https://git.io/typing-svg)
-
-<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+Backend Developer | Python & Django Specialist | AI Enthusiast | GIS Developer
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ernestilchenko/)](https://www.linkedin.com/in/ernestilchenko/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:7777erik777@gmail.com)](mailto:7777erik777@gmail.com)
@@ -11,10 +9,6 @@
 I specialize in data mining and high-performance backend solutions using Django. My goal is to create AI-powered software with complex databases that optimize business processes.
 
 ## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200" />
-</p>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
