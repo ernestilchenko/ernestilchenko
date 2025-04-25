@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50"> Hello, I'm Ernest Ilchenko!
+# <img src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" width="50"> Hello, I'm Ernest Ilchenko!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EF723&width=435&lines=Backend+Developer;Python+%26+Django+Specialist;AI+Enthusiast;GIS+Developer)](https://git.io/typing-svg)
 
@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:7777erik777@gmail.com)](mailto:7777erik777@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/ernestilchenko?label=Follow&style=for-the-badge&logo=github)](https://github.com/ernestilchenko)
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/aer096d3vD4rYVsgNn/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 💻 About Me
 
@@ -15,7 +15,7 @@ I specialize in data mining and analysis, as well as developing high-performance
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/XECtl1Fa2k8IKU2987/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" />
 </p>
 
 <p align="center">
@@ -31,6 +31,10 @@ I specialize in data mining and analysis, as well as developing high-performance
   <img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-0000FF?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xUPGcjKy4Agbb6d928/giphy.gif" width="450" />
 </p>
 
 ## 📊 GitHub Stats
@@ -55,6 +59,10 @@ I specialize in data mining and analysis, as well as developing high-performance
 <!-- Snake animation -->
 <p align="center">
   <img src="https://github.com/ernestilchenko/ernestilchenko/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
 </p>
 
 ## 🎓 Education
