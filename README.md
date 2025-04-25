@@ -1,64 +1,46 @@
-# <img src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" width="50"> Hello, I'm Ernest Ilchenko!
+# <img src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" width="30"> Ernest Ilchenko
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EF723&width=435&lines=Backend+Developer;Python+%26+Django+Specialist;AI+Enthusiast;GIS+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2EF723&width=435&lines=Backend+Developer;Python+%26+Django+Specialist;AI+Enthusiast;GIS+Developer)](https://git.io/typing-svg)
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ernestilchenko/)](https://www.linkedin.com/in/ernestilchenko/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:7777erik777@gmail.com)](mailto:7777erik777@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/ernestilchenko?label=Follow&style=for-the-badge&logo=github)](https://github.com/ernestilchenko)
+<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ernestilchenko/)](https://www.linkedin.com/in/ernestilchenko/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:7777erik777@gmail.com)](mailto:7777erik777@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/ernestilchenko?label=Follow&style=flat-square&logo=github)](https://github.com/ernestilchenko)
 
-## 💻 About Me
+I specialize in data mining and high-performance backend solutions using Django. My goal is to create AI-powered software with complex databases that optimize business processes.
 
-I specialize in data mining and analysis, as well as developing high-performance backend solutions using the Django framework. My professional goal is to create AI-powered software with complex databases that optimize business processes.
-
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-0000FF?style=for-the-badge&logo=anthropic&logoColor=white" />
-</p>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/-DRF-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/-PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Mapbox](https://img.shields.io/badge/-Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-0000FF?style=flat-square&logo=anthropic&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 Stats & 🎓 Education
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ernestilchenko&show_icons=true&theme=radical" />
-</p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestilchenko&layout=compact&theme=radical&hide_border=true&card_width=240" height="150" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestilchenko&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
-</p>
-
-## 🎓 Education
 - 💻 Computer Science at Politechnika Łódzka (2022-present)
 - 📡 Radiophysics, Biomedical Electronics and Computer Systems at V.N. Karazin Kharkiv National University (2021-2022)
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=ernestilchenko&show_icons=true&theme=radical&hide_border=true&card_width=450&hide_title=true&line_height=20" width="450" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ernestilchenko&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" />
-</p>
-
-<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ernestilchenko&label=Views&color=blueviolet&style=flat-square" alt="profile views" />
   <a href="https://github.com/ernestilchenko">
-    <img src="https://img.shields.io/badge/💬%20Let's%20Connect!-1F6FEB?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/💬%20Let's%20Connect!-1F6FEB?style=flat-square" />
   </a>
 </p>
