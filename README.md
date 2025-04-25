@@ -33,15 +33,7 @@ I specialize in data mining and analysis, as well as developing high-performance
   <img src="https://img.shields.io/badge/Claude-0000FF?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xUPGcjKy4Agbb6d928/giphy.gif" width="450" />
-</p>
-
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ernestilchenko&theme=radical" alt="ernestilchenko" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ernestilchenko&show_icons=true&theme=radical" />
@@ -49,16 +41,6 @@ I specialize in data mining and analysis, as well as developing high-performance
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestilchenko&layout=compact&theme=radical" />
-</p>
-
-<!-- GitHub Activity Graph -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ernestilchenko&theme=react-dark" />
-</p>
-
-<!-- Snake animation -->
-<p align="center">
-  <img src="https://github.com/ernestilchenko/ernestilchenko/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 <p align="center">
